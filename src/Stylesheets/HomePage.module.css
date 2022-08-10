@@ -1,0 +1,38 @@
+.quote{
+    color:#ff4700;
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+/* Col{
+    color:#ff9100;
+} */
+h3,p{
+    text-align: center;
+}
+h2{
+    color:#ff4700;
+}
+.imageBorder{
+    border-radius: 100%;
+}
+.cardbody{
+    text-align: center;
+}
+.cardtitle{
+    color: #ff4700;
+}
+.card{
+    box-shadow: 0 0 10px 0 #ff4700;
+}
+
+.service{
+    background-color: black;
+    color:whitesmoke
+}
+.solar{
+    text-align: center;
+}
+
+

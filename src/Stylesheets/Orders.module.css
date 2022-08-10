@@ -1,0 +1,28 @@
+.bg
+{
+    background-image: url("../images/bg.jpg");
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.head{
+    text-align: center;
+}
+.only_form{
+    background-color: white;
+    width:900px;
+    box-shadow: 0 0 10px 0 #ff4700;
+    border-top-left-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;
+    margin-left: 25%;
+}
+body{
+    background-color: rgb(250, 250, 248);
+}
+.mybutton{
+    background-color: #ff7f50;
+}
+.forms{
+    margin-left: 8%;
+}

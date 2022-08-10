@@ -1,0 +1,39 @@
+.bg{
+    background: black;
+
+    margin-bottom: -1%;
+}
+h4,ul{
+    margin-left: 15%;
+}
+.links a{
+    text-decoration: none;
+    color:white;
+}
+.foot{
+    color:#ff4700;
+}
+.name{
+    color: white;
+    font-size: larger;
+    font-family: 'Courgette', cursive;
+}
+.icons_footer{
+   
+    padding: 1%;
+    font-size:180%;
+    cursor: pointer;
+    
+}
+.icons{
+    margin-top:3%;
+    margin-left: 23%;
+    color: white;
+    
+}
+.icons a{
+    color:white;
+}
+.icons_footer:hover{
+    color:#ff4700;
+}

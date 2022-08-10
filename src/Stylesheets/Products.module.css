@@ -1,0 +1,21 @@
+
+
+.rows{
+    text-align: center;
+    box-shadow: 0 0 10px 0 #ff4700;
+}
+.column{
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.buttons{
+    border-radius: 23px;
+    margin-top: 2%;
+    background-color: #ff7f50;
+}
+.buttons a{
+    text-decoration: none;
+    color:black;
+}
+

@@ -1,0 +1,13 @@
+.head{
+    text-align: center;
+}
+.only_form{
+    margin: 0 auto;
+    width:500px;
+    box-shadow: 0 0 10px 0 #ff4700;
+    border-radius: 3%;
+}
+.mybutton{
+    background-color: #ff7f50;
+    color:black;
+}

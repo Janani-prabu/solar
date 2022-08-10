@@ -1,0 +1,19 @@
+
+.mycol{
+    background-color: black;
+    height:100vh;
+}
+.mycol a{
+    color:white;
+}
+h1{
+    text-align: center;
+    color:#ff4700;
+    font-family: 'Itim', cursive;
+}
+.mycol a:hover{
+    color: #ff4700;
+}
+.logoutimg{
+    text-align: center;
+}
